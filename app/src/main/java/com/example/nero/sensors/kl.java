@@ -5,7 +5,7 @@ import java.util.Queue;
 
 public class kl {
 
-    int[] h={6,8,66,88,99,65,787};
+    int[] h={6,8,66,88,99};
 
     void nj(){/*
         int b=h.length;
